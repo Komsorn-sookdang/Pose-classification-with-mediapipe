@@ -4,7 +4,9 @@
 
 #### 1) Install dependencies
 
+clone this repo, then open your cmd at your this repo local directory
+and run command >>
+
 ```
 pip install -r requirements.txt
-npm install
 ```
